@@ -4,7 +4,7 @@
 
     <groupId>com.unrulymedia</groupId>
     <artifactId>maven-plugins</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <packaging>pom</packaging>
 
     <name>maven-plugins-parent</name>
@@ -33,7 +33,7 @@
         <url>https://github.com/devunrulymedia/maven-plugins</url>
         <connection>scm:git:git://github.com/devunrulymedia/maven-plugins.git</connection>
         <developerConnection>scm:git:git@github.com:devunrulymedia/maven-plugins.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>maven-plugins-1.2</tag>
   </scm>
 
     <modules>
