@@ -4,11 +4,11 @@
   <parent>
     <groupId>com.unrulymedia</groupId>
     <artifactId>maven-plugins</artifactId>
-    <version>1.2</version>
+    <version>1.3-SNAPSHOT</version>
   </parent>
 
   <artifactId>search-maven-plugin</artifactId>
-  <version>1.2</version>
+  <version>1.3-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
   
   <name>${project.artifactId}</name>
