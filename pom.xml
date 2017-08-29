@@ -44,11 +44,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>unrulymedia</id>
-            <url>http://unrulymedia.artifactoryonline.com/unrulymedia/plugins-snapshots</url>
+            <url>http://unrulymedia.artifactoryonline.com/unrulymedia/plugins-snapshots-local</url>
         </snapshotRepository>
         <repository>
             <id>unrulymedia</id>
-            <url>http://unrulymedia.artifactoryonline.com/unrulymedia/plugins-releases</url>
+            <url>http://unrulymedia.artifactoryonline.com/unrulymedia/plugins-releases-local</url>
         </repository>
     </distributionManagement>
 
